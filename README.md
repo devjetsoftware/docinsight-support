@@ -1,6 +1,2 @@
-# DevJet Software Public Repo
-
-- Issue Tracker
-- Discussion
-- Release Notes
-- Documentation
+# public
+DevJet Software Public Repo
