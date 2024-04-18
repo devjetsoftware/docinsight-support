@@ -41,6 +41,8 @@ The font was too small on HighDPI displays. It has been fixed now.
 
 ### Preserve enum order
 
+Enumeration members are now sorted in declaration order, rather than by alphabetical order.
+
 ### Misc. changes
 
 - Change the term "Namespace" to "Unit"
