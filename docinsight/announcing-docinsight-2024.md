@@ -35,6 +35,10 @@ The font was too small on HighDPI displays. It has been fixed now.
 
 ![](images/chm-highdpi.png)
 
+### Package list
+
+![alt text](images/package-list.png)
+
 ### Preserve enum order
 
 ### Misc. changes
