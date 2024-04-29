@@ -46,7 +46,8 @@ Enumeration members are now sorted in declaration order, rather than by alphabet
 ### Misc. changes
 
 - Change the term "Namespace" to "Unit"
-- Strip method parameters from the topic title
+- Strip method parameters from topic title
+- Improve word wrapping of topic title
 
 ## Editor
 
@@ -88,7 +89,7 @@ Enumeration members are now sorted in declaration order, rather than by alphabet
 
 The following features are not included in this release. Please provide us with feedback if you require these features.
 
-- _Help+Manual_ output
+- _HelpAndManual_ output
 - MSHELP2 output
 - External XML documentation support
 - Surround XML doc comment with a customizable region
