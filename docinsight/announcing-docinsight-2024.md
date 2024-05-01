@@ -63,6 +63,8 @@ Enumeration members are now sorted in declaration order, rather than by alphabet
 
 ### Show source location while checking
 
+![](images/check-doc.png)
+
 ## Format Documentation
 
 ### Convert `<img>` tag to relative path
