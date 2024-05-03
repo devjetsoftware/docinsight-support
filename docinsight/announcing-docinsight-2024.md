@@ -75,10 +75,10 @@ Enumeration members are now sorted in declaration order, rather than by alphabet
 
 ### Bug fixes
 
-- [x] Missing space in adjacent inline tags
-- [x] Offset-by-one bug in text wrapping
-- [x] Unexpected wrap on punctuation
-- [x] Unexpected wrap in inline tags, e.g., `<see>`
+- Missing space in adjacent inline tags
+- Offset-by-one bug in text wrapping
+- Unexpected wrap on punctuation
+- Unexpected wrap in inline tags, e.g., `<see>`
 
 ## Installer
 
@@ -86,10 +86,10 @@ Enumeration members are now sorted in declaration order, rather than by alphabet
 
 ## Notable Fixes
 
-- [x] AV when opening a new empty project
-- [x] AV when the IDE is started with the `-r` switch
-- [x] DocInsight.exe raises an Out of Memory error
-- [x] Failed to locate `transform.data`
+- AV when opening a new empty project
+- AV when the IDE is started with the `-r` switch
+- DocInsight.exe raises an Out of Memory error
+- Failed to locate `transform.data`
 
 ## Known Issues
 
