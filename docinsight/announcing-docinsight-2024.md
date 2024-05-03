@@ -84,6 +84,8 @@ Enumeration members are now sorted in declaration order, rather than by alphabet
 
 - Select install mode (all users/current user)
 
+![](images/install-mode.png)
+
 ## Notable Fixes
 
 - AV when opening a new empty project
