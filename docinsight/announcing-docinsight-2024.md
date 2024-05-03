@@ -82,12 +82,12 @@ Enumeration members are now sorted in declaration order, rather than by alphabet
 
 ## Installer
 
-- Install mode (all users/current user)
+- Select install mode (all users/current user)
 
 ## Notable Fixes
 
 - AV when opening a new empty project
-- AV when the IDE is started with the `-r` switch
+- AV when running IDE with `-r` switch
 - DocInsight.exe raises an Out of Memory error
 - Failed to locate `transform.data`
 
