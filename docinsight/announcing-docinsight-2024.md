@@ -21,6 +21,10 @@ The first release of _DocInsight 2024_ represents a major update, introducing su
 
 ![docinsight-build](images/docinsight-build.png)
 
+### `check` command
+
+![docinsight-check](images/docinsight-check.png)
+
 ## Documentation
 
 ### Browsing local HTML output
