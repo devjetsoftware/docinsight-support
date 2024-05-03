@@ -80,10 +80,14 @@ Enumeration members are now sorted in declaration order, rather than by alphabet
 - [x] Unexpected wrap on punctuation
 - [x] Unexpected wrap in inline tags, e.g., `<see>`
 
+## Installer
+
+- Install mode (all users/current user)
+
 ## Notable Fixes
 
-- [ ] AV when opening a new empty project
-- [ ] AV when the IDE is started with the `-r` switch
+- [x] AV when opening a new empty project
+- [x] AV when the IDE is started with the `-r` switch
 - [x] DocInsight.exe raises an Out of Memory error
 - [x] Failed to locate `transform.data`
 
