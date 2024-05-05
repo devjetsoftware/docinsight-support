@@ -103,5 +103,19 @@ The following features are not included in this release. Please provide us with 
 
 - _HelpAndManual_ output
 - MSHELP2 output
-- External XML documentation support
+- External XML documentation files
 - Surround XML doc comment with a customizable region
+
+## Licensing Options and Special Offer
+
+With the release of DocInsight 2024, we are pleased to introduce a revamped licensing model:
+
+- Commercial license
+
+Licenses are purchased by the company and can be assigned to any single developer within the organization.
+
+- Personal license
+
+Tailored for individual use, this license is intended for those who purchase it with their own funds and should not be financed by companies in any form.
+
+Customers with active Documentation Insight subscriptions since September 1, 2023, are eligible for a free six-month extension. Additionally, existing Documentation Insight customers can switch their subscriptions to a DocInsight subscription at the standard renewal price before June 10, 2024. For more details, please refer to our separate announcement.
