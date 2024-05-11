@@ -63,6 +63,13 @@ Enumeration members are now sorted in declaration order, rather than by alphabet
 
 ### Responsive with large files
 
+### Add View menu item in Documentation Inspector
+
+- Show Toolbar
+- Show Tabs
+- Dockable
+- Stay on Top
+
 ## Check Documentation
 
 ### Show source location while checking
