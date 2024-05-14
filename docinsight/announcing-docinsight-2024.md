@@ -59,16 +59,27 @@ Enumeration members are now sorted in declaration order, rather than by alphabet
 
 ![](images/img-relative-path.png)
 
-### Navigate to active file in DocExplorer
+## Documentation Inspector
 
-### Responsive with large files
+### Use compact layout to display more content
 
-### Add View menu item in Documentation Inspector
+### Add _View_ menu item in context popup menu
 
-- Show Toolbar
-- Show Tabs
+- Toolbar
+- Tabs
 - Dockable
 - Stay on Top
+
+### Handles large files more efficiently
+
+## Documentation Explorer
+
+### Auto navigate to active file when open
+
+### New structure view icons
+![](images/docexplorer-icons.png)
+
+### Document included units in a package
 
 ## Check Documentation
 
@@ -78,7 +89,7 @@ Enumeration members are now sorted in declaration order, rather than by alphabet
 
 ## Format Documentation
 
-### Convert `<img>` tag to relative path
+### Convert `src` attribute of `<img>` tag to relative path
 
 ### Force text wrap after `<br/>` tag
 
