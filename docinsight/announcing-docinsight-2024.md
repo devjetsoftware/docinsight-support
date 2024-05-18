@@ -41,7 +41,7 @@ The font was too small on HighDPI displays. It has been fixed now.
 
 ### Package list
 
-![alt text](images/package-list.png)
+![](images/package-list.png)
 
 ### Preserve enum order
 
@@ -114,6 +114,7 @@ Enumeration members are now sorted in declaration order, rather than by alphabet
 - AV when running IDE with `-r` switch
 - DocInsight.exe raises an Out of Memory error
 - Failed to locate `transform.data`
+- DocExplorer lost focus when clicking on a new file
 
 ## Known Issues
 
