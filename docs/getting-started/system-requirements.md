@@ -12,4 +12,4 @@ The DocInsight extension for Delphi supports the following versions:
 
 > [!NOTE]
 >
-> If you are interested in DocInsight and support for other versions, please visit [DocInsight Issues](https://github.com/devjetsoftware/docinsight-support/issues) to submit a feature request.
+> If you need support for ealier Delphi versions, please use [DocInsight Issues](https://github.com/devjetsoftware/docinsight-support/issues) to submit a feature request.

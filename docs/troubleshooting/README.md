@@ -23,5 +23,3 @@ The `dry-run` mode allows you to simulate the build process without actually cre
 ```shell
 docinsight build -vv --dry-run -f html
 ```
-
-## XML doc errors

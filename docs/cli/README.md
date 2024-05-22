@@ -20,7 +20,3 @@ The DocInsight command-line tools (`docinsight.exe`) allow you to check and buil
 ## Exit Code
 
 DocInsight CLI returns `0` on success and a non-zero value on failure.
-
-## Troubleshooting
-
-See [Troubleshooting](./troubleshooting.md)

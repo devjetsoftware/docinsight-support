@@ -37,11 +37,11 @@
 
 ## Reference
 
-### [XML Documentation Comments](./reference/xmldoc/README.md)
+- [XML Documentation Comments](./reference/xmldoc/README.md)
 
 ## Support
 
-[DocInsight Support](https://github.com/devjetsoftware/docinsight-support)
+- [DocInsight Support](https://github.com/devjetsoftware/docinsight-support)
 
 ## Licensing
 
