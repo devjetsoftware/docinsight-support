@@ -1,3 +1,3 @@
 # DocInsight Release Notes
 
-- [DocInsight 2024](v6.0.md) (Unreleased)
+- [DocInsight 2024](v6.0/README.md) (Unreleased)
