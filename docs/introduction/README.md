@@ -1,6 +1,6 @@
 # Welcome to DocInsight
 
-DocInsight is an API documentation tool designed specifically for Delphi developers. It integrates seamlessly with the Delphi/RAD Studio IDE and features a WYSIWYG (What You See Is What You Get) editor, making it easier to document your code directly within the IDE. DocInsight can generate documentation in multiple formats, including HTML and CHM. Additionally, the DocInsight Command-Line Interface (CLI) supports automating the documentation process as part of your CI/CD pipeline.
+DocInsight is an API documentation tool designed specifically for Delphi developers. It integrates seamlessly with the Delphi IDE and features a **WYSIWYG** editor, making it easier to document your code directly within the IDE. DocInsight can generate documentation in multiple formats, including HTML and CHM. Additionally, the DocInsight CLI supports automating the documentation process as part of your CI/CD pipeline.
 
 ## Licensing
 

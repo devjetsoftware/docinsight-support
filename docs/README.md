@@ -29,7 +29,7 @@
 - [`build` command](./cli/build.md)
 - [`check` command](./cli/check.md)
 - [`open` command](./cli/open.md)
-- [`license` command](./cli/license.md)
+<!-- - [`license` command](./cli/license.md) -->
 
 ## Troubleshooting
 
@@ -38,6 +38,7 @@
 ## Reference
 
 - [XML Documentation Comments](./reference/xmldoc/README.md)
+- [Extensions](./reference/extensions.md)
 
 ## Support
 
