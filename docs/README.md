@@ -39,7 +39,7 @@
 ## Reference
 
 - [XML Documentation Comments](./reference/xmldoc/README.md)
-- [Extension Versions](./reference/extension-versions.md)
+- [Extension Compatibility](./reference/extension-compatibility.md)
 
 ## Support
 
