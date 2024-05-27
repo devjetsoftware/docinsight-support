@@ -2,14 +2,21 @@
 
 ## CHM (*hhc.exe*)
 
-- Download **HTML Help Workshop**
-- Run *htmlhelp.exe*
+CHM files, or Compiled HTML Help files, are primarily used on Windows. To create CHM files, the HTML Help Workshop is required, which includes the hhc.exe compiler.
 
-> [!NOTE]
-> You can download the installer from the GitHub repository:
+### Download and Installation
+
+1. Download **HTML Help Workshop**
+
+> [!IMPORTANT]
+> The official download is no longer available on the [Microsoft HTML Help Downloads](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/htmlhelp/microsoft-html-help-downloads) page. However, you can download the installer from this GitHub repository:
 > https://github.com/EWSoftware/SHFB/raw/master/ThirdPartyTools/htmlhelp.exe
 
-> [!NOTE]
+1. Verify the code signing
+
+2. Run the installer (*htmlhelp.exe*)
+
+> [!TIP]
 > You can safely ignore the message "This computer already has a newer version of HTML Help" at the end of the installation.
 
 ## MSHELP2 (*hxcomp.exe*)
