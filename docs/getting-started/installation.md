@@ -38,6 +38,6 @@ Take Delphi 12 for instance, if you have launched Delphi with `bds.exe -rTest`, 
 - Value Type: String Value (`REG_SZ`)
 - Value: `%LocalAppData%\Programs\DevJet\DocInsight\6.0\DocInsight290.dll` (Use the actual path on your machine)
 
-### Extensions
+### Extension Compatibility
 
-See [Extension Versions](../reference/extension-versions.md) for a list of DocInsight DLLs and the corresponding Delphi versions.
+See [Extension Compatibility](../reference/extension-compatibility.md) for a list of DocInsight DLLs and the corresponding Delphi versions.

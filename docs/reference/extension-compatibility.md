@@ -1,4 +1,4 @@
-# Extension Versions
+# DocInsight Extension Compatibility
 
 | DocInsight DLL          | Delphi Version          | BDS Version |
 |-------------------------|-------------------------|-------------|

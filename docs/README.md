@@ -15,9 +15,10 @@
 - [Installation](./getting-started/installation.md)
 - [Quick Start Guide](./getting-started/quick-start-guide.md)
 
-<!-- ## Extension for Delphi
+## Extension for Delphi
 
 - [Overview](./delphi/README.md)
+<!--
 - [Documentation Inspector](./delphi/documentation-inspector.md)
 - [Documentation Explorer](./delphi/documentation-explorer.md)
 - [Documentation Wizard](./delphi/documentation-wizard.md)
