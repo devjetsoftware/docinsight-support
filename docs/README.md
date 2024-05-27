@@ -38,8 +38,10 @@
 
 ## Reference
 
+<!-- - [DocInsight Manifest](./reference/manifest.md) -->
+- [DocInsight Extension Compatibility](./reference/extension-compatibility.md)
 - [XML Documentation Comments](./reference/xmldoc/README.md)
-- [Extension Compatibility](./reference/extension-compatibility.md)
+- [Microsoft Help Compilers](./reference/microsoft-help-compilers.md)
 
 ## Support
 
