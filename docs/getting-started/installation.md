@@ -11,17 +11,17 @@ To install DocInsight, download the latest version from the [Releases](../../rel
 
 ![](../../releases/v6.0/images/install-mode.png)
 
-### For current user
+### For Current User
 
 By default, DocInsight is installed in the following directory:
 `%LocalAppData%\Programs\DevJet\DocInsight\6.0`.
 
-### For all users (Requires Admin privileges)
+### For All Users (Requires Admin privileges)
 
 If you install DocInsight for all users, the default installation directory is:
 `%ProgramFiles(x86)%\DevJet\DocInsight\6.0`.
 
-## Setup Command Line Parameters
+## Silent Installation
 
 You can use the `/silent` or `/verysilent` option to install DocInsight silently. For more information, please see the [Setup Command Line Parameters](https://jrsoftware.org/ishelp/topic_setupcmdline.htm) in the [Inno Setup](https://jrsoftware.org/isinfo.php) documentation.
 
@@ -31,22 +31,13 @@ If you use the `bds.exe -r` command line switch to start Delphi with an alternat
 
 ### Example
 
-Take Delphi 12 for instance, if you launch Delphi with `bds.exe -rTest`, add the following registry key:
+Take Delphi 12 for instance, if you have launched Delphi with `bds.exe -rTest`, you need to add the following entry:
 
 `HKEY_CURRENT_USER\Software\Embarcadero\Test\23.0\Experts`
-- Key: `DocInsight` (String Value)
-- Value: `%LocalAppData%\Programs\DevJet\DocInsight\6.0\DocInsight290.dll`
+- Name: `DocInsight`
+- Value Type: String Value (`REG_SZ`)
+- Value: `%LocalAppData%\Programs\DevJet\DocInsight\6.0\DocInsight290.dll` (Use the actual path on your machine)
 
-### Extensions
+### Extension Compatibility
 
-| DocInsight DLL          | Delphi Version          | BDS Version |
-|-------------------------|-------------------------|-------------|
-| `DocInsight210.dll`     | Delphi XE7              | 21.0        |
-| `DocInsight220.dll`     | Delphi XE8              | 22.0        |
-| `DocInsight230.dll`     | Delphi 10 Seattle       | 23.0        |
-| `DocInsight240.dll`     | Delphi 10.1 Berlin      | 24.0        |
-| `DocInsight250.dll`     | Delphi 10.2 Tokyo       | 25.0        |
-| `DocInsight260.dll`     | Delphi 10.3 Rio         | 26.0        |
-| `DocInsight270.dll`     | Delphi 10.4 Sydney      | 27.0        |
-| `DocInsight280.dll`     | Delphi 11 Alexandria    | 28.0        |
-| `DocInsight290.dll`     | Delphi 12 Athens        | 29.0        |
+See [Extension Compatibility](../reference/extension-compatibility.md) for a list of DocInsight DLLs and the corresponding Delphi versions.
