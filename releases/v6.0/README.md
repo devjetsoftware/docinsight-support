@@ -118,9 +118,11 @@ Enumeration members are now sorted in declaration order, rather than by alphabet
 
 ## Installer
 
-- Select install mode (all users/current user)
-
-![](images/install-mode.png)
+- Provide a unified installer for all supported Delphi versions
+- Select installation mode (all users/current user)
+- Group extensions and automatically select for installed Delphi IDEs
+- Install only the selected extensions for Delphi
+- Uninstall previous versions
 
 ## Notable Fixes
 
