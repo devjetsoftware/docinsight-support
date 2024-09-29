@@ -17,6 +17,9 @@ The DocInsight command-line tools (`docinsight.exe`) allow you to check and buil
 - [`open`](./open.md)
   - **Description**: Open a specific documentation output.
 
+- [`license`](./license.md)
+  - **Description**: Display and manage license information.
+
 ## Exit Code
 
 DocInsight CLI returns `0` on success and a non-zero value on failure.
