@@ -1,9 +1,5 @@
 # DocInsight Documentation
 
-> [!NOTE]
->
-> DocInsight 2025 hasn't been released yet. The documentation is a draft and subject to change.
-
 ## Introduction
 
 - [Welcome to DocInsight](./introduction/README.md)
