@@ -1,16 +1,16 @@
-# DocInsight 2024 Release Notes (Draft)
+# DocInsight 2025 Release Notes (Draft)
 
 > [!NOTE]
 >
-> DocInsight 2024 hasn't been released yet. This document is a draft and subject to change.
+> DocInsight 2025 hasn't been released yet. This document is a draft and subject to change.
 
 [DocInsight](https://devjetsoftware.com/products/documentation-insight/), also known as _Documentation Insight_, is an API documentation tool for Delphi developers.
 
-The first release of _DocInsight 2024_ represents a major update, introducing support for Delphi XE7 to **Delphi 12** and a completely redesigned **DocInsight CLI**. This version addresses many long-standing issues from previous versions and provides valuable enhancements.
+The first release of _DocInsight 2025_ represents a major update, introducing support for Delphi XE7 to **Delphi 12** and a completely redesigned **DocInsight CLI**. This version addresses many long-standing issues from previous versions and provides valuable enhancements.
 
 ## Delphi 12
 
-_DocInsight 2024_ now fully supports Delphi 12, accommodating its new features and improvements, which enhance the tool's functionality and the developer's experience.
+_DocInsight 2025_ now fully supports Delphi 12, accommodating its new features and improvements, which enhance the tool's functionality and the developer's experience.
 
 ![docinsight-menu](../../docs/images/docinsight-menu.png)
 
@@ -91,6 +91,7 @@ Enumeration members are now sorted in declaration order, rather than by alphabet
 ### Auto navigate to active file when open
 
 ### New structure view icons
+
 ![](images/docexplorer-icons.png)
 
 ### Document included units in a package
@@ -143,7 +144,7 @@ The following features are not included in this release. Please provide us with 
 
 ## Licensing Options and Special Offer
 
-With the release of DocInsight 2024, we are pleased to introduce a revamped licensing model:
+With the release of DocInsight 2025, we are pleased to introduce a revamped licensing model:
 
 - Commercial license
 

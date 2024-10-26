@@ -4,7 +4,7 @@ DocInsight is an API documentation tool designed specifically for Delphi develop
 
 ## Licensing
 
-With the release of DocInsight 2024, we are pleased to introduce a revamped licensing model:
+With the release of DocInsight 2025, we are pleased to introduce a revamped licensing model:
 
 ### Commercial License
 
@@ -16,5 +16,5 @@ Tailored for individual use, this license is intended for those who purchase it 
 
 ## See Also
 
-- [What's New in DocInsight 2024](../../releases/v6.0/README.md)
+- [What's New in DocInsight 2025](../../releases/v6.0/README.md)
 - [Getting Started](../getting-started/README.md)

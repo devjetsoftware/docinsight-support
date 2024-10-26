@@ -2,12 +2,12 @@
 
 > [!NOTE]
 >
-> DocInsight 2024 hasn't been released yet. The documentation is a draft and subject to change.
+> DocInsight 2025 hasn't been released yet. The documentation is a draft and subject to change.
 
 ## Introduction
 
 - [Welcome to DocInsight](./introduction/README.md)
-- [What's New in DocInsight 2024](../releases/v6.0/README.md)
+- [What's New in DocInsight 2025](../releases/v6.0/README.md)
 
 ## Getting Started
 
@@ -39,6 +39,7 @@
 ## Reference
 
 <!-- - [DocInsight Manifest](./reference/manifest.md) -->
+
 - [DocInsight Extension Compatibility](./reference/extension-compatibility.md)
 - [XML Documentation Comments](./reference/xmldoc/README.md)
 - [Microsoft Help Compilers](./reference/microsoft-help-compilers.md)

@@ -1,6 +1,6 @@
 # Licensing
 
-With the release of DocInsight 2024, we are pleased to introduce a revamped licensing model:
+With the release of DocInsight 2025, we are pleased to introduce a revamped licensing model:
 
 ## Commercial license
 

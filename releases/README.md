@@ -2,7 +2,7 @@
 
 This topic lists all releases of DocInsight with the most significant changes. It is recommended to visit the release notes for the corresponding versions.
 
-## DocInsight 2024
+## DocInsight 2025
 
 ### [Version 6.0](v6.0/README.md) (Unreleased)
 
