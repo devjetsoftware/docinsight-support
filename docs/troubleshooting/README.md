@@ -2,7 +2,7 @@
 
 This section provides solutions to common problems that you may encounter when using DocInsight.
 
-## DocInsight Extension for Delphi
+## Delphi Extension
 
 ### Installation
 

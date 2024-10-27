@@ -1,4 +1,8 @@
-# DocInsight Extension Compatibility
+# Delphi Extension Compatibility
+
+DocInsight uses different DLL extensions for compatibility with various Delphi versions. These extensions are located in the "extensions" folder within the DocInsight installation directory. Each DLL is specifically designed to work with a particular version of Delphi, ensuring seamless integration and functionality across different IDE versions.
+
+The table below provides a comprehensive list of DocInsight DLLs and their corresponding Delphi and BDS (Borland Developer Studio) versions:
 
 | DocInsight DLL          | Delphi Version          | BDS Version |
 |-------------------------|-------------------------|-------------|

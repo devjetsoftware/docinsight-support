@@ -1,9 +1,5 @@
 # DocInsight 2025 Release Notes (Draft)
 
-> [!NOTE]
->
-> DocInsight 2025 hasn't been released yet. This document is a draft and subject to change.
-
 [DocInsight](https://devjetsoftware.com/products/documentation-insight/), also known as _Documentation Insight_, is an API documentation tool for Delphi developers.
 
 The first release of _DocInsight 2025_ represents a major update, introducing support for Delphi XE7 to **Delphi 12** and a completely redesigned **DocInsight CLI**. This version addresses many long-standing issues from previous versions and provides valuable enhancements.

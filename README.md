@@ -1,6 +1,6 @@
 # DocInsight Support
 
-DocInsight, aka Documentation Insight, is our powerful API documentation solution.
+DocInsight, also known as Documentation Insight, is our powerful API documentation solution.
 
 Welcome to the official DocInsight Support Repository! This central hub provides comprehensive resources for DocInsight users, including documentation, release information, issue tracking, and community engagement.
 
@@ -19,11 +19,12 @@ New to DocInsight? Get started quickly:
 2. [Quick Start Guide](./docs/getting-started/quick-start-guide.md)
 3. [FAQ](./docs/faq.md)
 
-## 🆘 Getting Help
+## ❓ Getting Help
 
 1. Check our [Troubleshooting Guide](./docs/troubleshooting.md) for common issues and solutions.
 2. Search the [Community Forum](https://forum.devjetsoftware.com) for similar problems or ask a new question.
 3. If you've found a bug, please [report it](https://github.com/devjetsoftware/docinsight-support/issues/new?template=bug_report.md) using our issue template.
+4. For direct support, email us at support@devjetsoftware.com.
 
 ## 💡 Feature Requests
 

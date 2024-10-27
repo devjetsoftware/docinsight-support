@@ -1,6 +1,6 @@
 # DocInsight Command-line Tools
 
-The DocInsight command-line tools (`docinsight.exe`) allow you to check and build the documentation for your projects. It is designed for use in a CI/CD pipeline or as part of a build script.
+The DocInsight command-line tools (`docinsight.exe`) allow you to check and build the documentation for your projects. It is designed for use in a CI/CD pipeline or as part of a build script. The same executable also acts as a backend server to power the DocInsight Extension for Delphi IDE.
 
 > [!TIP]
 >
