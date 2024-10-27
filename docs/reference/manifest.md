@@ -1,3 +1,0 @@
-# DocInsight Manifest
-
-TBD.

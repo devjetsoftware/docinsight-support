@@ -6,28 +6,18 @@
 
 [DocInsight](https://devjetsoftware.com/products/documentation-insight/), also known as _Documentation Insight_, is an API documentation tool for Delphi developers.
 
-The first release of _DocInsight 2024_ represents a major update, introducing support for Delphi XE7 to **Delphi 12** and a completely redesigned **DocInsight CLI**. This version addresses many long-standing issues from previous versions and provides valuable enhancements.
+The first release of _DocInsight 2024_ represents a major update, introducing support for **Delphi 12** and a completely redesigned **DocInsight CLI**. This version addresses many long-standing issues from previous versions and provides valuable enhancements.
 
 ## Delphi 12
 
-_DocInsight 2024_ now fully supports Delphi 12, accommodating its new features and improvements, which enhance the tool's functionality and the developer's experience.
-
-![docinsight-menu](../../docs/images/docinsight-menu.png)
-
-### Integration with IDE Insight
-
-Provides quick access to DocInsight actions.
-
-![ide-insight](images/ide-insight.png)
+### IDE Insight
 
 ## DocInsight CLI
 
-The CLI of DocInsight has been completely redesigned to provide a more intuitive, efficient, and robust tool for managing project documentation from the command line. Here are the key improvements:
-
-- **Progress Reporting**: Enhanced progress feedback provides real-time updates on documentation generation, allowing for better process monitoring and management.
-- **Parallel Jobs**: Utilizing the full power of modern multi-core processors, the CLI now supports specifying the number of parallel jobs, significantly speeding up documentation generation.
-- **Ctrl+C Handler**: Improved interruption handling ensures that the CLI can safely terminate processes, preventing data corruption and allowing for a clean shutdown in any situation.
-- **Error Handling**: The new error-handling provides clearer, more descriptive error messages, making it easier to diagnose and resolve issues during the documentation process.
+- Progress
+- Parallel jobs
+- Ctrl+C handler
+- Error-handing
 
 ![DocInsight CLI](images/docinsight-cli.gif)
 
@@ -151,4 +141,4 @@ Licenses are purchased by the company and can be assigned to any single develope
 
 Tailored for individual use, this license is intended for those who purchase it with their own funds and should not be financed by companies in any form.
 
-For more details, please refer to our separate announcement.
+Customers with active Documentation Insight subscriptions since September 1, 2023, are eligible for a free six-month extension. Additionally, existing Documentation Insight customers can switch their subscriptions to a DocInsight subscription at the standard renewal price before June 10, 2024. For more details, please refer to our separate announcement.

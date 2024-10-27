@@ -6,6 +6,8 @@
 
 ## Delphi / RAD Studio
 
+The DocInsight extension for Delphi supports the following versions:
+
 - Delphi XE7 to Delphi 12
 
 > [!NOTE]
