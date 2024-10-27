@@ -1,23 +1,29 @@
-# DocInsight 2024 Release Notes (Draft)
-
-> [!NOTE]
->
-> DocInsight 2024 hasn't been released yet. This document is a draft and subject to change.
+# DocInsight 2025 Release Notes (Draft)
 
 [DocInsight](https://devjetsoftware.com/products/documentation-insight/), also known as _Documentation Insight_, is an API documentation tool for Delphi developers.
 
-The first release of _DocInsight 2024_ represents a major update, introducing support for **Delphi 12** and a completely redesigned **DocInsight CLI**. This version addresses many long-standing issues from previous versions and provides valuable enhancements.
+The first release of _DocInsight 2025_ represents a major update, introducing support for Delphi XE7 to **Delphi 12** and a completely redesigned **DocInsight CLI**. This version addresses many long-standing issues from previous versions and provides valuable enhancements.
 
 ## Delphi 12
 
-### IDE Insight
+_DocInsight 2025_ now fully supports Delphi 12, accommodating its new features and improvements, which enhance the tool's functionality and the developer's experience.
+
+![docinsight-menu](../../docs/images/docinsight-menu.png)
+
+### Integration with IDE Insight
+
+Provides quick access to DocInsight actions.
+
+![ide-insight](images/ide-insight.png)
 
 ## DocInsight CLI
 
-- Progress
-- Parallel jobs
-- Ctrl+C handler
-- Error-handing
+The CLI of DocInsight has been completely redesigned to provide a more intuitive, efficient, and robust tool for managing project documentation from the command line. Here are the key improvements:
+
+- **Progress Reporting**: Enhanced progress feedback provides real-time updates on documentation generation, allowing for better process monitoring and management.
+- **Parallel Jobs**: Utilizing the full power of modern multi-core processors, the CLI now supports specifying the number of parallel jobs, significantly speeding up documentation generation.
+- **Ctrl+C Handler**: Improved interruption handling ensures that the CLI can safely terminate processes, preventing data corruption and allowing for a clean shutdown in any situation.
+- **Error Handling**: The new error-handling provides clearer, more descriptive error messages, making it easier to diagnose and resolve issues during the documentation process.
 
 ![DocInsight CLI](images/docinsight-cli.gif)
 
@@ -81,6 +87,7 @@ Enumeration members are now sorted in declaration order, rather than by alphabet
 ### Auto navigate to active file when open
 
 ### New structure view icons
+
 ![](images/docexplorer-icons.png)
 
 ### Document included units in a package
@@ -108,9 +115,11 @@ Enumeration members are now sorted in declaration order, rather than by alphabet
 
 ## Installer
 
-- Select install mode (all users/current user)
-
-![](images/install-mode.png)
+- Provide a unified installer for all supported Delphi versions
+- Select installation mode (all users/current user)
+- Group extensions and automatically select for installed Delphi IDEs
+- Install only the selected extensions for Delphi
+- Uninstall previous versions
 
 ## Notable Fixes
 
@@ -131,7 +140,7 @@ The following features are not included in this release. Please provide us with 
 
 ## Licensing Options and Special Offer
 
-With the release of DocInsight 2024, we are pleased to introduce a revamped licensing model:
+With the release of DocInsight 2025, we are pleased to introduce a revamped licensing model:
 
 - Commercial license
 
@@ -141,4 +150,4 @@ Licenses are purchased by the company and can be assigned to any single develope
 
 Tailored for individual use, this license is intended for those who purchase it with their own funds and should not be financed by companies in any form.
 
-Customers with active Documentation Insight subscriptions since September 1, 2023, are eligible for a free six-month extension. Additionally, existing Documentation Insight customers can switch their subscriptions to a DocInsight subscription at the standard renewal price before June 10, 2024. For more details, please refer to our separate announcement.
+For more details, please refer to our separate announcement.

@@ -1,0 +1,3 @@
+# DocInsight FAQ
+
+WIP

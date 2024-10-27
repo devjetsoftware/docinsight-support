@@ -1,17 +1,35 @@
 # DocInsight Support
 
-Welcome to the DocInsight Support Repository! This is your hub for all things about DocInsight, including documentation, release notes, issue tracking, and community links.
+DocInsight, also known as Documentation Insight, is our powerful API documentation solution.
 
-## Resources
+Welcome to the official DocInsight Support Repository! This central hub provides comprehensive resources for DocInsight users, including documentation, release information, issue tracking, and community engagement.
 
-- **[Documentation](./docs)**: Access the latest DocInsight documentation.
-- **[Releases](./releases)**: Find detailed release notes and update logs.
-- **[Issues](https://github.com/devjetsoftware/docinsight-support/issues)**: Report bugs or request features.
-- **[Community Forum](https://forum.devjetsoftware.com)**: Join discussions and share experiences with other users and the development team.
-- **[DocInsight Beta](https://forum.devjetsoftware.com/c/docinsight-beta)**: Get early access to new features by joining our beta program (via our [support email](mailto:support@devjetsoftware.com)).
+## 📚 Resources
 
-## Feedback
+- **[Documentation](./docs/README.md)**: Access our comprehensive user guides.
+- **[Release Notes](./releases/README.md)**: Stay updated with the latest features, improvements, and bug fixes.
+- **[Issue Tracker](https://github.com/devjetsoftware/docinsight-support/issues)**: Report bugs, suggest enhancements, or track known issues.
+- **[Community Forum](https://forum.devjetsoftware.com)**: Connect with other users, share experiences, and get community support.
 
-Your feedback is invaluable. Use the issues tab for feature requests or bug reports.
+## 🚀 Quick Start
 
-Thank you for supporting DocInsight!
+New to DocInsight? Get started quickly:
+
+1. [Installation Guide](./docs/getting-started/installation.md)
+2. [Quick Start Guide](./docs/getting-started/quick-start-guide.md)
+3. [FAQ](./docs/faq.md)
+
+## ❓ Getting Help
+
+1. Check our [Troubleshooting Guide](./docs/troubleshooting.md) for common issues and solutions.
+2. Search the [Community Forum](https://forum.devjetsoftware.com) for similar problems or ask a new question.
+3. If you've found a bug, please [report it](https://github.com/devjetsoftware/docinsight-support/issues/new?template=bug_report.md) using our issue template.
+4. For direct support, email us at support@devjetsoftware.com.
+
+## 💡 Feature Requests
+
+Have an idea to improve DocInsight? We'd love to hear it! Please submit your feature requests through our [Feature Request Form](https://github.com/devjetsoftware/docinsight-support/issues/new?template=feature_request.md).
+
+---
+
+Thank you for choosing DocInsight! We're committed to providing you with the best document management experience possible.
