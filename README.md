@@ -10,6 +10,7 @@ Welcome to the official DocInsight Support Repository! This central hub provides
 - **[Release Notes](./releases/README.md)**: Stay updated with the latest features, improvements, and bug fixes.
 - **[Issue Tracker](https://github.com/devjetsoftware/docinsight-support/issues)**: Report bugs, suggest enhancements, or track known issues.
 - **[Community Forum](https://forum.devjetsoftware.com)**: Connect with other users, share experiences, and get community support.
+- **[EULA](./EULA.md)**: Review our End User License Agreement.
 
 ## 🚀 Quick Start
 
