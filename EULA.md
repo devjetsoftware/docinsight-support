@@ -70,17 +70,17 @@ Customers may choose between manual renewal and automatic renewal for their subs
 
 - The Licensee may install the Product on multiple machines, provided that it is not used simultaneously on more than one machine by the same licensed user.
 
-  5.2. **Command Line Interface (CLI)**
+5.2. **Command Line Interface (CLI)**
 
 - The Licensee may install the DocInsight CLI on a separate computer, such as a build server, strictly for automated, unattended documentation generation.
 - The CLI is not to be treated as a redistributable component and may not be distributed to third parties.
 
-  5.3. **Redistribution of Documentation Output**
+5.3. **Redistribution of Documentation Output**
 
 - **Trial License Users:** Redistribution of Documentation Output generated during the trial period is strictly prohibited.
 - **Licensed Users:** Licensed users may redistribute Documentation Output generated using the licensed Product, provided such redistribution complies with all other terms of this EULA.
 
-  5.4. **Restrictions**
+5.4. **Restrictions**
 
 The Licensee shall not:
 
