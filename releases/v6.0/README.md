@@ -112,6 +112,7 @@ Enumeration members are now sorted in declaration order, rather than by alphabet
 - Offset-by-one bug in text wrapping
 - Unexpected wrap on punctuation
 - Unexpected wrap in inline tags, e.g., `<see>`
+- Inconsistent indent in `<code>` element
 
 ## Installer
 
@@ -143,11 +144,6 @@ The following features are not included in this release. Please provide us with 
 With the release of DocInsight 2025, we are pleased to introduce a revamped licensing model:
 
 - Commercial license
-
-Licenses are purchased by the company and can be assigned to any single developer within the organization.
-
 - Personal license
 
-Tailored for individual use, this license is intended for those who purchase it with their own funds and should not be financed by companies in any form.
-
-For more details, please refer to our separate announcement.
+For more information, please refer to our separate announcement.
