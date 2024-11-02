@@ -1,6 +1,6 @@
 # Installation
 
-To install DocInsight, download the latest version from the [Releases](../../releases/README.md), run the installer, and follow the instructions to complete the installation process.
+To install DocInsight, download the latest version from the official [Downloads](https://devjetsoftware.com/downloads/) page, run the installer, and follow the instructions to complete the installation process.
 
 ## System Requirements
 
@@ -13,12 +13,12 @@ To install DocInsight, download the latest version from the [Releases](../../rel
 
 ### For Current User
 
-By default, DocInsight is installed in the following directory:
+By default, DocInsight 2025 is installed in the following directory:
 `%LocalAppData%\Programs\DevJet\DocInsight\6.0`.
 
 ### For All Users (Requires Admin privileges)
 
-If you install DocInsight for all users, the default installation directory is:
+If you install DocInsight 2025 for all users, the default installation directory is:
 `%ProgramFiles(x86)%\DevJet\DocInsight\6.0`.
 
 ## Silent Installation
@@ -36,7 +36,7 @@ Take Delphi 12 for instance, if you have launched Delphi with `bds.exe -rTest`, 
 `HKEY_CURRENT_USER\Software\Embarcadero\Test\23.0\Experts`
 - Name: `DocInsight`
 - Value Type: String Value (`REG_SZ`)
-- Value: `%LocalAppData%\Programs\DevJet\DocInsight\6.0\DocInsight290.dll` (Use the actual path on your machine)
+- Value: `%LocalAppData%\Programs\DevJet\DocInsight\6.0\extensions\DocInsight290.dll` (Use the actual path on your machine)
 
 ### Extension Compatibility
 
