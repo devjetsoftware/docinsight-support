@@ -8,13 +8,13 @@
 - Add the Microsoft HTML Help Workshop component to the installer
 - Clear shortcuts using the Backspace key in the Options
 - Move docinsight.exe and DocInsightWizard.exe to bin folder
-- Reset the trial period of the previous version
+- Extend the trial period of the previous version
 
 ### Fixes
 
 - Fix: DocInspector/DocExplorer editor may be empty in Delphi 12 (DPI Unaware)
-- Fix: Go to Definition navigate to incorrect location after xmldoc changed
-- Fix: Go to Definition may not scroll to the expected location
+- Fix: Go to Definition navigate to incorrect location when xmldoc changed
+- Fix: Code editor may not scroll to the expected location when Go to Definition
 - Fix: Whitespaces adjacent to inline tags are trimmed
 
 ## [6.0.0.16] - 2024-10-30
