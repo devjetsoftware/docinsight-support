@@ -2,10 +2,11 @@
 
 ## [Unreleased]
 
+## [6.0.0.17] - 2024-11-14
+
 ### New
 
 - Introducing Insiders edition
-- [ ] Check for Updates
 - Add the Microsoft HTML Help Workshop component to the installer
 - Normalize text encoding of source files
 - Clear shortcuts using the Backspace key in the Options
@@ -20,6 +21,7 @@
 - Fix: Whitespaces adjacent to inline tags are trimmed
 - Fix: docinsight.exe panicked with ANSI encoded file
 - Fix: docinsight.exe panicked when xml doc comment contains invalid UTF-8 sequenece
+- Fix: docinsight.exe panicked with "Fail to convert uri to file path"
 
 ## [6.0.0.16] - 2024-10-30
 
