@@ -2,7 +2,11 @@
 
 ## [Unreleased]
 
-## [6.0.0.17] - 2024-11-14
+## [6.0.0.18] - 2024-11-15
+
+- FIX: docinsight panicked with existing project group
+
+## [6.0.0.17] - 2024-11-14 (YANKED)
 
 ### New
 
