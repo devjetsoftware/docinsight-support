@@ -2,6 +2,17 @@
 
 ## [Unreleased]
 
+## [6.0.0.19] - 2024-11-24
+
+### New Features
+
+- Add Check for Updates
+- New Option: Auto download update
+
+### Improvements
+
+- Reorder Tools menu items
+
 ## [6.0.0.18] - 2024-11-15
 
 - FIX: docinsight panicked with existing project group
