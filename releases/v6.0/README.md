@@ -114,10 +114,15 @@ Enumeration members are now sorted in declaration order, rather than by alphabet
 - Unexpected wrap in inline tags, e.g., `<see>`
 - Inconsistent indent in `<code>` element
 
+## Update
+
+![Check for Updates](images/check-for-updates.png)
+
 ## Installer
 
 - Provide a unified installer for all supported Delphi versions
 - Select installation mode (all users/current user)
+- Download and install Microsoft Html Help Workshop (CHM compiler)
 - Group extensions and automatically select for installed Delphi IDEs
 - Install only the selected extensions for Delphi
 - Uninstall previous versions
