@@ -22,7 +22,7 @@ New to DocInsight? Get started quickly:
 
 ## ❓ Getting Help
 
-1. Check our [Troubleshooting Guide](./docs/troubleshooting.md) for common issues and solutions.
+1. Check our [Troubleshooting Guide](./docs/troubleshooting/README.md) for common issues and solutions.
 2. Search the [Community Forum](https://forum.devjetsoftware.com) for similar problems or ask a new question.
 3. If you've found a bug, please [report it](https://github.com/devjetsoftware/docinsight-support/issues/new?template=bug_report.md) using our issue template.
 4. For direct support, email us at support@devjetsoftware.com.
