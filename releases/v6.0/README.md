@@ -1,4 +1,4 @@
-# DocInsight 2025 Release Notes (Draft)
+# DocInsight 2025 Release Notes
 
 [DocInsight](https://devjetsoftware.com/products/documentation-insight/), also known as _Documentation Insight_, is an API documentation tool for Delphi developers.
 
